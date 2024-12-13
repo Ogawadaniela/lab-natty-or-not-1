@@ -23,19 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo curto apresenta os principais pontos de saúde mental e emocional onde devemos dar atenção para termos mais qualidade em nossas vidas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa CHATGPT para roteirização e revisão;
+IA Generativa D-ID para sintetização e criação de avatar.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "CHAT GPT" para escrever e revisar o roteiro do vídeo, o "D-ID" para criar um avatar virtual com minha voz.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi um projeto desafiador por conta da utilização de novas ferramentas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi difícil entender o processo, porém, quando ficou pronto fiquei orgulhosa de não ter desistido.
 ```
 
 ### Exemplos e Insigths
