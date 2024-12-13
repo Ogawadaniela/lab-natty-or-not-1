@@ -20,7 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Vida mental e emocional de qualidade
 
 ## 📒 Descrição
 Este vídeo curto apresenta os principais pontos de saúde mental e emocional onde devemos dar atenção para termos mais qualidade em nossas vidas.
